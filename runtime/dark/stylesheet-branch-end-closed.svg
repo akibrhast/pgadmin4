@@ -1,4 +1,1 @@
-<svg width="81" height="58">
-  <rect id="VLine" fill="#626568" x="36" width="2" height="14"/>
-  <rect id="HLine" fill="#626568" x="65" y="28" height="1" width="28"/>
-</svg>
+<svg width="81" height="58"><rect id="VLine" width="2" height="14" x="36" fill="#626568"/><rect id="HLine" width="28" height="1" x="65" y="28" fill="#626568"/></svg>

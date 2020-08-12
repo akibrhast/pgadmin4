@@ -1,5 +1,1 @@
-<svg width="1000" height="1000" >
-  <path id="BottomCircle" d="M100,500 a250,250, 0, 1,0, 800,0 M775,500 L500,775 L225,500 z" fill="#a2a2a2" />
-  <path id="TopCircle" d="M900,500 a250,250, 0, 1,0, -800,0 M225,500 L500,225 L775,500  z" fill="#a2a2a2" />
-  <path id="Inside" d="M275,500 L 500,725 L 725,500 L 500,275 z" fill="#a2a2a2" />
-</svg>
+<svg width="1000" height="1000"><path id="BottomCircle" fill="#a2a2a2" d="M100,500 a250,250, 0, 1,0, 800,0 M775,500 L500,775 L225,500 z"/><path id="TopCircle" fill="#a2a2a2" d="M900,500 a250,250, 0, 1,0, -800,0 M225,500 L500,225 L775,500 z"/><path id="Inside" fill="#a2a2a2" d="M275,500 L 500,725 L 725,500 L 500,275 z"/></svg>
